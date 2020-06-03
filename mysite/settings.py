@@ -25,7 +25,7 @@ SECRET_KEY = 'f-03^8yt7ea*uo6hhcnp#sdww=rp%yr%&!+zn&*=)d-i+&i29!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['figueroawalter.pythonanywhere.com']
 
 
 # Application definition
